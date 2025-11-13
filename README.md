@@ -45,7 +45,7 @@ Y alguna más...
 [![Facebook](https://img.shields.io/badge/Facebook-@zhimbaya-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/zhimbaya)
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-diegosimbana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/diegosimbana)
-[![Web](https://img.shields.io/badge/Web-zhimbaya.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://zhimbaya.com)
+[![Web](https://img.shields.io/badge/Web-zhimbaya.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://diegoinfotech.wordpress.com/)
 <br>
 [![YouTube](https://img.shields.io/badge/YouTube-zhimbaya-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@zhimbaya)
 [![Twitch](https://img.shields.io/badge/Twitch-zhimbaya-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/zhimbaya)
